@@ -1,5 +1,6 @@
 # ============================================
 # Password Strength Checker
+# Project 02 - 30 Projects in 30 Days
 # ============================================
 COMMON_PASSWORDS = {
     "password",
